@@ -1,0 +1,8 @@
+{
+  "name": "Remix CyberPong Arena - TV \u0026 Mobile PWA",
+  "description": "Game PWA multiplayer real-time untuk HP Android dan iPhone dengan kontrol gestur dan layar tontonan Android TV melalui WebSocket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
